@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on some Roblox games
 
-- 📫 How to reach me: Mohhay@apostrix.se
+- 📫 How to reach me on Discord: mohhay#0
 
 - 😄 Pronouns: he/him
 

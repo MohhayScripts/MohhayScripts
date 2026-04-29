@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-⚡ I'm a **Roblox Game Developer**
+⚡ I'm a Computer Engineering student and a **Roblox Game Developer**
 
 ---
 

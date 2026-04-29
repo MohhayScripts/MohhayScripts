@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-⚡ I'm a Computer Engineering student and a Roblox Game Developer!
+⚡ I'm Mohhay, a Computer Engineering student and a Roblox Game Developer!
 
 ---
 

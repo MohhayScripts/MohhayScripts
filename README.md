@@ -10,4 +10,11 @@
 
 - ⚡ Fun fact: I love anime
 
-- 🖥️ Languages: Lua(u), C#, Python, HTML, CSS, JavaScript, and a little bit of C++.
+- 🖥️ Languages that I know:
+• Lua(u)       ▰▰▰▰▰▰▰▰▰▰  Proficient
+• Python       ▰▰▰▰▰▰▰▰     Advanced
+• C++          ▰▰▰▰▰▰        Intermediate
+• C#           ▰▰▰▰▰▰        Intermediate
+• HTML         ▰▰▰▰           Beginner-Intermediate
+• CSS          ▰▰▰▰           Beginner-Intermediate
+• JavaScript   ▰▰▰▰           Beginner-Intermediate

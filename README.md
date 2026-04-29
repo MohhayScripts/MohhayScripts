@@ -10,11 +10,11 @@
 
 - ⚡ Fun fact: I love anime
 
-- 🖥️ Languages that I know:
-Lua(u)      ▰▰▰▰▰▰▰▰▰▰  Proficient  
-Python      ▰▰▰▰▰▰▰▰     Advanced  
-C++         ▰▰▰▰▰▰        Intermediate  
-C#          ▰▰▰▰▰▰        Intermediate  
-HTML        ▰▰▰▰           Beginner-Intermediate  
-CSS         ▰▰▰▰           Beginner-Intermediate  
-JavaScript  ▰▰▰▰           Beginner-Intermediate  
+### 🖥️ Languages
+- **Lua(u)**       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  Proficient  
+- **Python**       🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  Advanced  
+- **C++**          🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  Intermediate  
+- **C#**           🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  Intermediate  
+- **HTML**         🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜  Beginner–Intermediate  
+- **CSS**          🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜  Beginner–Intermediate  
+- **JavaScript**   🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜  Beginner–Intermediate

@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love anime
 
 - 🖥️ Languages that I know:
-• Lua(u)       ▰▰▰▰▰▰▰▰▰▰  Proficient 
+• Lua(u)       ▰▰▰▰▰▰▰▰▰▰  Proficient\n
 • Python       ▰▰▰▰▰▰▰▰     Advanced 
 • C++          ▰▰▰▰▰▰        Intermediate 
 • C#           ▰▰▰▰▰▰        Intermediate 

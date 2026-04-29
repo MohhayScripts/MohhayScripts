@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-⚡ **Roblox Game Developer**
+⚡ I'm a **Roblox Game Developer**
 
 ---
 
